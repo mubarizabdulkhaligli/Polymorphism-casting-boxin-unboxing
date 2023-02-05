@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BLZffwx8oLe3n8LYRCfMZ9Bo6RZHt4cRRtcAh76x4VSO5OqlwDond9+Oq+3ttAEchWwf8E/ABJp+XDeIpP4b9g==",
+  "success": true,
+  "projectFilePath": "/Users/mubarizabdulkhaligli/Desktop/Projects/05022023/StoreLibrary/StoreLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/mubarizabdulkhaligli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/mubarizabdulkhaligli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8B70E10E-F8C2-4E82-B369-13CD96AC8B51}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StoreMenu/Program.cs">
+    <Files>
+      <File FileName="StoreMenu/Program.cs" Line="187" Column="68" />
+      <File FileName="StoreLibrary/Product.cs" Line="1" Column="1" />
+      <File FileName="StoreLibrary/Drink.cs" Line="1" Column="1" />
+      <File FileName="StoreLibrary/Dairy.cs" Line="1" Column="1" />
+      <File FileName="StoreLibrary/Store.cs" Line="1" Column="1" />
+      <File FileName="StoreLibrary/Istore.cs" Line="1" Column="1" />
+      <File FileName="StoreLibrary/ProductNotFoundException.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StoreMenu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
